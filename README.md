@@ -1,1 +1,5 @@
-# NBAsalarypreds
+Developed a comprehensive suite of machine learning models to predict NBA player salaries based on their statistics. Employed techniques encompassing both classification and regression methodologies to tackle the multifaceted task of salary prediction.
+
+Conducted meticulous data preprocessing, including extensive data cleaning, feature engineering, and data exploration. This involved handling missing values, transforming categorical variables, and conducting in-depth analysis to ensure the dataset was primed for modeling.
+
+Implemented a diverse array of machine learning algorithms, including Decision Trees, Naive Bayes, K-Nearest Neighbors, Neural Networks, Support Vector Machines, Linear Regression, and Ensemble methods such as Bagging and Boosting. Utilized advanced techniques such as cross-validation and hyperparameter tuning to optimize model performance, achieving impressive accuracies exceeding 80% in classification tasks and an R^2 of 0.75 in regression, indicative of the models' robust predictive capabilities.
